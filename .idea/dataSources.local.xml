@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Rails splurty: development" uuid="19fece70-5330-4cc2-997b-242bf91855b6">
+      <first-sync>true</first-sync>
+      <user-name>postgres</user-name>
+      <user-password>dfdadfcbdfd9dfd9dfdddfc5dfd8dfce</user-password>
+    </data-source>
+    <data-source name="Rails splurty: production" uuid="c4a6fa19-7a71-4036-af4c-f75c9a3b2173">
+      <user-name>postgres</user-name>
+      <user-password>dfdadfcbdfd9dfd9dfdddfc5dfd8dfce</user-password>
+    </data-source>
+    <data-source name="Rails splurty: production" uuid="a67f9b4f-e2ef-4f61-8917-3b97ac02094d">
+      <user-name>postgres</user-name>
+      <user-password>dfdadfcbdfd9dfd9dfdddfc5dfd8dfce</user-password>
+    </data-source>
+    <data-source name="Rails splurty: development" uuid="09a136ab-9853-4267-8111-cc3847b29cec">
+      <first-sync>true</first-sync>
+      <user-name>postgres</user-name>
+      <user-password>dfdadfcbdfd9dfd9dfdddfc5dfd8dfce</user-password>
+    </data-source>
+  </component>
+</project>
